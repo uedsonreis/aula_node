@@ -2,7 +2,7 @@
     "name": "aula_node",
     "version": "1.0.0",
     "description": "Class about NodeJs.",
-    "main": "index.js",
+    "main": "index.ts",
     "scripts": {
         "build": "rm -rf build && tsc",
         "start": "npm run build && node build/index.js",

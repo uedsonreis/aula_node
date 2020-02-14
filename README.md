@@ -4,11 +4,7 @@ O objetivo deste projeto é auxiliar na aula de introdução a Node com TypeScri
 
 ## Requirements
 
-    Node 6+
-
-## Author
-
-Uedson Reis (<https://github.com/uedsonreis>)
+    Node 10+
 
 ## Instruções
 
