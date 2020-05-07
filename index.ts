@@ -19,7 +19,7 @@ app.get("/irpf/:value/:name", (req, res) => {
     res.status(200).json(irpf.calculateThis(value, name));
 });
 
-app.post("/irpf/ex2", (req, res) => {
+app.post("/irpf", (req, res) => {
 
     const value = Number(req.body.value);
     const name = req.body.name;
